@@ -3,6 +3,7 @@ bmc_user=root
 bmc_password=calvin
 bmc_address=
 boot_image=
+disco_image=
 
 [ansible]
 localhost ansible_connection=local
