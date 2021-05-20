@@ -1,6 +1,6 @@
 FROM registry.centos.org/centos/centos:latest 
 
-COPY playbook.yml requirements.yml ansible.cfg hosts /root
+COPY playbook.yml requirements.yml ansible.cfg hosts /root/
 
 WORKDIR /root
 
