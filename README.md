@@ -1,4 +1,4 @@
-# dell-redfish-iso
+# redfish-iso
 
 This is a container image with ansible installed and a simple play to boot a Dell PowerEdge server to an ISO file with DMTF Redfish.
 
